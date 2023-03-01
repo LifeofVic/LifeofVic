@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Llapa</h1>
+<h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A Software Engineer passionate in learning new skills sets.</h3>
 
 - 🔭 I’m currently working on **a personal portfolio using the Astro framework.**
