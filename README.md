@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A Software Engineer passionate in learning new skills sets.</h3>
 
-- 🔭 I’m currently working on **AWS Cloud Practicioner certificate.**
 - 🌱 I’m excited to start **Learning many new skills** 
-- 📚 I'm also practicing with **Vue.js** and creating a calculator. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
